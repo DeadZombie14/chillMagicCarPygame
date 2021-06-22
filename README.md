@@ -1,7 +1,7 @@
 # chillMagicCarPygame
 Juego que creé en el primer semestre de universidad en Python para aprender clases, UI, 3D y gráficos 2D simples en juegos.
 
-# NOTAS DE LICENCIA DE LIBRERIAS
+## NOTAS DE LICENCIA DE LIBRERIAS
 Este proyecto utiliza las siguientes librerías:
 
 - PyOpenGL (LGPL)
